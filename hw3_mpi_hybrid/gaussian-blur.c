@@ -1,6 +1,5 @@
 /* Parallel program for gaussian-blur using MPI.
  * SIDIROPOULOS GEORGIOS
- * AM: 4789
  */
 
 #include <stdio.h>
