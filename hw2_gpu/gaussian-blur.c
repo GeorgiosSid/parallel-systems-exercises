@@ -1,6 +1,5 @@
 /* Parallel program for gaussian-blur.
  * SIDIROPOULOS GEORGIOS
- * AM: 4789
  */
 
 #include <stdio.h>
