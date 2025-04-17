@@ -22,7 +22,7 @@ Each project includes code implementations, performance measurements, and analys
   - Study and guide for one-sided communications (MPI RMA).
 
 ## Technologies
-- C / C++ Programming
+- C Programming
 - OpenMP (parallel CPU programming)
 - CUDA (GPU programming)
 - MPI (Message Passing Interface)
