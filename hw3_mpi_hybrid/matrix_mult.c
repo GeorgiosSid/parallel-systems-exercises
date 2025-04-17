@@ -1,6 +1,5 @@
 /* Parallel program for matrix-matrix product.
  * SIDIROPOULOS GEORGIOS
- * AM: 4789
  */
 
 #include <stdio.h>
